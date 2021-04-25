@@ -1,5 +1,17 @@
 # Zot
 
-A mobile programming quiz retro game
+> 📱  Mobile <u>programming</u> quiz retro game
 
-![landing page](public/landingPage.png)
+## 🌟 What th app should look like :
+
+* **Landing screen:**
+![landing page](public/landingScreen.png)
+
+* **Main screen:**
+![landing page](public/mainScreen.png)
+
+* **Game screen:**
+![landing page](public/gameScreen.png)
+
+* **Profile screen:**
+![landing page](public/profileScreen.png)
