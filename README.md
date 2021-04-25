@@ -4,14 +4,18 @@
 
 ## 🌟 What the app should look like :
 
-* **Landing screen:**
+### **Landing screen:**
+
 ![landing page](public/landingScreen.png)
 
-* **Main screen:**
+### **Main screen:**
+
 ![landing page](public/mainScreen.png)
 
-* **Game screen:**
+### **Game screen:**
+
 ![landing page](public/gameScreen.png)
 
-* **Profile screen:**
+### **Profile screen:**
+
 ![landing page](public/profileScreen.png)
