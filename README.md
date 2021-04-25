@@ -2,7 +2,7 @@
 
 > 📱  Mobile <u>programming</u> quiz retro game
 
-## 🌟 What th app should look like :
+## 🌟 What the app should look like :
 
 * **Landing screen:**
 ![landing page](public/landingScreen.png)
